@@ -1,0 +1,23 @@
+
+
+body{
+  background-color: #f4f4f4; /* hex, html colors, rgb */
+  color: #555555;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+
+  line-height: 1.6em;
+}
+
+.container{
+  width: 80%;  /* or px*/
+  margin:auto;
+}
+
+
+
+.box-1{
+  background-color: #333333;
+  color: #ffffff;
+}
