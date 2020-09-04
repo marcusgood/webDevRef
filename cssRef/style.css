@@ -80,5 +80,5 @@ body{
 .categories li{
   text-align: center;
   list-style: none;
-
+  list-style-image: url('/images/name.png');
 }
